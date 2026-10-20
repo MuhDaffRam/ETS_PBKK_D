@@ -16,8 +16,6 @@ KosKu menggunakan SQL Server. Aplikasi akan mencoba membuat database `KosKu` dan
 
 ## 2. Cara Menjalankan
 
-### Cara termudah
-
 1. Ekstrak seluruh ZIP ke folder lokal, misalnya `C:\KosKu`.
 2. Pastikan **.NET 8 SDK** sudah terpasang di Windows.
 3. Klik dua kali `Jalankan-KosKu.bat`.
