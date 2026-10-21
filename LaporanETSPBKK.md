@@ -1,3 +1,6 @@
+Link Video Demo Kelompok 16 : https://youtu.be/jYHkDvSU5SI
+Link Laporan PRD Kelompok 16: https://docs.google.com/document/d/1LSTXep-CFNMj1H5IymUb-0MNVeM1xHRSldAr0jLiAnM/edit?usp=sharing
+
 # KosKu — Sistem Informasi Pengelolaan Kos Mahasiswa
 
 KosKu adalah aplikasi desktop Windows untuk membantu pemilik/pengelola kos dan penghuni mahasiswa mengelola kamar, profil penghuni, kontrak sewa, tagihan bulanan, bukti pembayaran, dan komplain fasilitas.
@@ -16,18 +19,10 @@ KosKu menggunakan SQL Server. Aplikasi akan mencoba membuat database `KosKu` dan
 
 ## 2. Cara Menjalankan
 
-1. Ekstrak seluruh ZIP ke folder lokal, misalnya `C:\KosKu`.
+1. Ekstrak seluruh ZIP ke folder lokal.
 2. Pastikan **.NET 8 SDK** sudah terpasang di Windows.
 3. Klik dua kali `Jalankan-KosKu.bat`.
 4. Tunggu proses restore/build pertama selesai, lalu login.
-
-### Melalui terminal
-
-Buka PowerShell pada folder hasil ekstrak, kemudian jalankan:
-
-```powershell
-dotnet run --project .\KosKu\KosKu.csproj
-```
 
 Atau buka `KosKu.sln` menggunakan Visual Studio 2022 yang mendukung .NET 8, kemudian tekan **F5**.
 
